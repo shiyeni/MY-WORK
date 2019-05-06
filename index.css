@@ -55,7 +55,7 @@ body{
   padding: 10px;
 }
 .menu-container{
-  background-image: url("images/cute.jpg");
+  background-image: url("cute.jpg");
   background-size: cover;
   height: 700px;
 }
@@ -206,7 +206,7 @@ progress{
   padding-top: 100px;
 }
 .video{
-  background-image: url('images/canva3.jpg');
+  background-image: url('canva3.jpg');
   background-position: center;
   filter: brightness(50%);
   width: 550px;
