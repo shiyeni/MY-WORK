@@ -352,12 +352,7 @@ progress{
   padding: 50px;
 }
 .menu-container,
-#main,
-#last-container,
-#addition{
-  margin-right: 7%;
-  margin-left: 7%;
-}
+
 .footer-one .bttn-one{
   color: #ffd24d;
 }
